@@ -1,0 +1,36 @@
+# NetBeans
+nbproject/
+build/
+dist/
+nbactions.xml
+nb-configuration.xml
+private/
+*.nbattrs
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+
+# Sistema
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.bak
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Dependencias (si quieres subirlas, comenta esta línea)
+# lib/
+
+# Configuración
+*.properties
+*.secrets
