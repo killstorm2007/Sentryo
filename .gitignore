@@ -1,0 +1,45 @@
+# ============================================
+# ARCHIVOS Y CARPETAS QUE NO SE SUBEN
+# ============================================
+
+# NetBeans (generados automáticamente)
+build/
+dist/
+nbactions.xml
+nb-configuration.xml
+private/
+
+# Java (compilados)
+*.class
+*.jar
+*.war
+*.ear
+
+# Sistema
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+
+# IDE (otros)
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.settings/
+.project
+.classpath
+
+# Archivos de usuario
+*.properties
+*.secret
+session/
+preferences/
+user/
+
+# Repositorios
+.git/
